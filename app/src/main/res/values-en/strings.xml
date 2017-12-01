@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">COC</string>
+    <string name="header_name" translatable="false">Colombian Olympic Committe</string>
+    <string name="action_settings" translatable="false">About</string>
+    <string name="coc">Our Institution</string>
+    <string name="historia">History</string>
+    <string name="mv">Mission and Vision</string>
+    <string name="valores">Principles and Values</string>
+    <string name="comite">Executive committee</string>
+    <string name="estatuto">Statutes</string>
+    <string name="txt_historia">The history of Colombian sport begins in an ancient pre-season, athletes Aborigines, muiscas, and continues with places and now located in the XX and XXI centuries, featuring some ordinary human beings, who were able to make a difference, to planting indelible marks.</string>
+    <string name="fed">Federations</string>
+    <string name="ti_mision">Mission</string>
+    <string name="ti_vision">Vision</string>
+    <string name="txt_mision">On the basis of the Mission IOC established by the Olympic Charter: \"To promote Olympism throughout the world and lead the Olympic Movement\", harmonized with under Law 181 Article 72 against nature and competence of the COC, mission in Colombia is defined as follows: Develop, promote and protect the Olympic Movement as the coordinating body of the associated sport in Colombia, fulfilling a function of public and social interest.
+</string>
+    <string name="txt_vision">The vision of the COC takes already raised elements in a perspective of previous planning and aligned with the provisions of the Ten - Year Plan for Sport, Recreation, Physical Education and Physical Activity for Human Development, Coexistence and Peace 2009 - 2019 raises its policy guideline 3 based on the positioning and Sports Leadership. In this vein, the COC's vision is:: In 2019 the Colombian Olympic Committee will be a national and international benchmark for its leadership, its sporting development and for being a fundamental part of the process that is positioning Colombia as a continental sports power</string>
+    <string name="txt_intro">The Colombian Olympic Committee assumes as organizational values, universal Olympic values ​​issued by the IOC for the Olympic Movement:</string>
+    <string name="ti_v1">Excellence</string>
+    <string name="txt_v1">Excellence as the result value is the alignment of the objectives of the organization from a systems perspective. Such alignment ensures consistency in processes, effective customer approach, autonomy and entrepreneurship, productivity and flexibility for adaptation to the environment, all these matters of utmost importance to the Colombian Olympic Committee.</string>
+    <string name="ti_v2">Friendship</string>
+    <string name="txt_v2">Friendship, understood as the emotional relationship between people is a fundamental value for internal and external processes COC because it involves trust, respect and working together of all those who are part of the family of the Colombian Olympic Committee.</string>
+    <string name="ti_v3">Respect</string>
+    <string name="txt_v3">Respect for themselves, others and the environment allow us to understand and assume their own possibilities and those of others, within a framework of tolerance and coexistence. Respect the rules of the Colombian Olympic Committee, be gentle and affectionate, express to others with consideration and not to run over the others in the interaction will always be effective ways to strengthen the Olympic Spirit that we should all proudly represent to be members of the Olympic Movement.</string>
+    <string name="txt_info">Information</string>
+    <string name="txt_salir">Exit</string>
+    <string name="patroc">Sponsors</string>
+    <string name="depor">Featured athletes</string>
+    <string name="escenarios">Stages</string>
+    <string name="eve">Events</string>
+    <string name="deport">Athletes</string>
+    <string name="txt_his_1">The history of Colombian sport begins in an ancient pre-season, athletes Aborigines, muiscas, and continues with places and now located in the XX and XXI centuries, featuring some ordinary human beings, who were able to make a difference, to planting indelible marks.</string>
+    <string name="txt_his_2">The first solo was Jorge Perry Villate, that boyacense looked strange that one day the impossible: to be admitted to the Olympic Games, without there being National Olympic Committee, and succeeded, in Los Angeles in 1932. His solitude became Olympic immensity a stone giant, on which the Colombian Olympic Committee rose.</string>
+    <string name="txt_his_3">The second solo was a bogotano cachaco, Alberto Nariño Cheyne, who collected the seed of Perry and 3 July 1936 prompted the creation of the COC, ie the inclusion of Colombia to the world sport, and a Bolivarian Games that seemed invented useless and unworkable finally open agsoto 6, 1938, in Bogota.</string>
+    <string name="txt_his_4">The third was Julio Gerlein Comelín, who scored important merits, to reaffirm his hometown, Barranquilla, on the condition birthplace of Colombian sport, which helped him to be recognized, first outside the country -the IOC chose him as its permanent delegate - and then in his homeland, wild leaders then was elected first president of the Colombian Olympic Committee in 1936.</string>
+    <string name="txt_inicio">First athletes</string>
+    <string name="txt_med">First medals</string>
+    <string name="txt_his_5">By echoes of that first spark they came the pioneers Olympic medals, Helmut Bellingrodt shooter, and Rojas Clemente boxers and Alfonso Perez in Munich 72.</string>
+    <string name="txt_his_6">And in that period of change solitary second medal shooter barranquillero Helmut Bellingrodt, who won silver again at the 1984 Los Angeles Olympics he arrived.</string>
+    <string name="txt_his_7">After Mario Garcia and Garcia came to the CoC again the architect Humberto girl Pinzon and medical Fidel Mendoza Carrasquilla, who experienced an unprecedented boom in sports like boxing, that precisely delivered the fourth Olympic medal in Seoul 1988, won by Eliecer Julio Rocha.</string>
+    <string name="txt_his_8">In the interval the unexpected happened: the impressive bronze medal Ximena Restrepo in athletics Barcelona 1992.</string>
+</resources>

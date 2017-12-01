@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">COC</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Acerca de</string>
+    <string name="header_name" translatable="false">Comité Olímpico Colombiano</string>
+    <string name="coc">Nuestra Institución</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="historia">Historia</string>
+    <string name="mv">Misión y visión</string>
+    <string name="valores">Principios y valores</string>
+    <string name="comite">Comité ejecutivo</string>
+    <string name="estatuto">Estatutos</string>
+    <string name="title_activity_info_institucion">InfoInstitucion</string>
+    <string name="txt_his_1">La historia del deporte colombiano comienza en una milenaria estación previa, la de los aborígenes atletas, los muiscas, y sigue con lugares y momentos ubicados en los siglos XX y XXI, protagonizados por unos seres humanos comunes y corrientes, que supieron marcar diferencias, para plantar huellas imborrables.</string>
+    <string name="fed">Federaciones</string>
+    <string name="title_activity_mision">MisionActivity</string>
+    <string name="ti_mision">Misión</string>
+    <string name="ti_vision">Visión</string>
+    <string name="txt_mision">Teniendo como base la Misión del COI, establecida por la carta Olímpica: “Promover el Olimpismo por todo el mundo y dirigir el Movimiento Olímpico”, armonizada con lo contemplado en la Ley 181 en su artículo 72 frente a la naturaleza y competencia del COC, en Colombia se define la siguiente misión: Desarrollar, promover y proteger el Movimiento Olímpico como coordinador del deporte asociado en Colombia, cumpliendo una función de interes público y social</string>
+    <string name="txt_vision">La visión del COC retoma elementos ya planteados en una perspectiva de planeación anterior y se alinea con lo establecido en el Plan Decenal del Deporte, la Recreación, la Educación Física y la Actividad Física para el Desarrollo Humano, la Convivencia y la Paz 2009 – 2019, plantea su lineamiento de política 3, referido al Posicionamiento y Liderazgo Deportivo. En este orden de ideas, la visión del COC es: En el 2019 el Comité Olímpico Colombiano será un referente nacional e internacional por su liderazgo, su desarrollo deportivo y por ser parte fundamental del proceso que está posicionando a Colombia como una potencia deportiva continental</string>
+    <string name="txt_intro">El Comité Olímpico Colombiano asume como valores organizacionales, los valores olímpicos universales emitidos por el COI para el Movimiento Olímpico:</string>
+    <string name="ti_v1">Excelencia</string>
+    <string name="txt_v1">La excelencia como valor es la consecuencia del alineamiento de los objetivos de la organización desde una perspectiva sistémica. Dicho alineamiento garantiza coherencia en los procesos, acercamiento efectivo al cliente, autonomía y espíritu empresarial, productividad y flexibilidad para la adaptación al medio, todos estos asuntos de máxima importancia para el Comité Olímpico Colombiano.</string>
+    <string name="ti_v2">Amistad</string>
+    <string name="txt_v2">La amistad, entendida como la relación afectiva entre las personas es un valor fundamental para los procesos internos y externos del COC, ya que involucra la confianza, el respeto y el trabajo unido de todos quienes hacemos parte de la familia del Comité Olímpico Colombiano.</string>
+    <string name="ti_v3">Respeto</string>
+    <string name="txt_v3">El respeto a sí mismos, a los demás y al entorno permiten comprender y asumir las propias posibilidades y las de otros, en un marco de tolerancia y convivencia. Respetar las reglas del Comité Olímpico Colombiano, ser amable y afectuoso, expresarse hacia los demás con consideración y no atropellar a los otros en la interacción serán siempre formas eficaces de reforzar el Espíritu Olímpico que todos debemos representar con orgullo al ser miembros del Movimiento Olímpico.</string>
+    <string name="txt_info">Información</string>
+    <string name="txt_salir">Salir</string>
+    <string name="patroc">Patrocinadores</string>
+    <string name="depor">Deportistas destacados</string>
+    <string name="escenarios">Escenarios</string>
+    <string name="eve">Eventos</string>
+    <string name="deport">Deportistas</string>
+    <string name="txt_his_2">El primer solitario fue Jorge Perry Villate, ese extraño boyacense que un día buscó lo imposible: ser admitido en unos Juegos Olímpicos, sin que existiera Comité Olímpico Nacional, y lo logró, en Los Ángeles 1932. Su soledad en la inmensidad olímpica se convirtió en una gigantesca piedra, sobre la cual se levantó el Comité Olímpico Colombiano.</string>
+    <string name="txt_his_3">El segundo solitario fue un cachaco bogotano, Alberto Nariño Cheyne, quien recogió la semilla de Perry y el 3 de julio de 1936 impulsó la creación del COC, es decir, la inclusión de Colombia al deporte mundial, y se inventó unos Juegos Bolivarianos que parecían inútiles e irrealizables, finalmente abiertos el 6 de agsoto de 1938, en Bogotá.</string>
+    <string name="txt_his_4">El tercero fue Julio Gerlein Comelín, quien sumó importantes méritos, como reafirmar a su ciudad natal, Barranquilla, en la condición de cuna del deporte colombiano, que le sirvieron para ser reconocido, primero fuera del país -el COI lo escogió como su delegado permanente- y luego en su patria, los silvestres dirigentes de entonces lo eligieron primer presidente del Comité Olímpico Colombiano, en 1936.</string>
+    <string name="txt_inicio">Primeros deportistas</string>
+    <string name="txt_med">Primeras medallas</string>
+    <string name="txt_his_5">Por los ecos de ese primer chispazo llegaron las medallas olímpicas pioneras, del tirador Helmut Bellingrodt, y de los boxeadores Clemente Rojas y Alfonso Pérez, en Munich 72.</string>
+    <string name="txt_his_6">Y en ese período de cambio llegó la solitaria segunda medalla del tirador barranquillero Helmut Bellingrodt, quien obtuvo de nuevo plata, en los JUegos Olímpicos Los Ángeles 1984.</string>
+    <string name="txt_his_7">Después de Mario García y García llegaron al COC de nuevo el arquitecto Humberto Chica Pinzón y el médico Fidel Mendoza Carrasquilla, quien vivieron un inusitado auge en deportes como el boxeo, que, precisamente, entregó la cuarta medalla olímpica, en Seúl 1988, ganada por Eliécer Julio Rocha.</string>
+    <string name="txt_his_8">En el intervalo ocurrió lo inesperado: la impresionante medalla de bronce de Ximena Restrepo, en el atletismo de Barcelona 1992.</string>
+</resources>

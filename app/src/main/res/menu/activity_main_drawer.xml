@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_coc"
+            android:icon="@drawable/bag"
+            android:title="@string/coc" />
+        <item
+            android:id="@+id/nav_fed"
+            android:icon="@drawable/fed"
+            android:title="@string/fed" />
+        <item
+            android:id="@+id/nav_depor"
+            android:icon="@drawable/sport"
+            android:title="@string/depor" />
+        <item
+            android:id="@+id/nav_ev"
+            android:icon="@drawable/calendar"
+            android:title="@string/eve" />
+        <item
+            android:id="@+id/nav_esc"
+            android:icon="@drawable/lugar"
+            android:title="@string/escenarios" />
+    </group>
+
+    <item android:title="@string/txt_info">
+        <menu>
+            <item
+                android:id="@+id/nav_patro"
+                android:icon="@drawable/help"
+                android:title="@string/patroc" />
+            <item
+                android:id="@+id/nav_salir"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/txt_salir" />
+        </menu>
+    </item>
+
+</menu>
